@@ -1,6 +1,8 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
 import NavBar from "./components/Navbar.js";
+import Card from "./components/Card.js";
+// import Score from "./components/Score.js";
+import characters from "./Characters.json";
 import "./App.css";
 
 class App extends Component {
@@ -16,20 +18,18 @@ class App extends Component {
     return (
       <div className="App">
         <NavBar />
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+        <div className="d-flex justify-content-center main-content mx-auto padding-main flex-wrap row">
+          {characters.map(({ id, name, image, clicked }) => (
+            <Card
+              key={id}
+              id={id}
+              name={name}
+              image={image}
+              clicked={clicked}
+              clickHandler={this.handleSaveClick}
+            />
+          ))}
+        </div>
       </div>
     );
   }
