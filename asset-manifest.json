@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Clicky-Game/static/css/main.6c427c75.chunk.css",
-    "main.js": "/Clicky-Game/static/js/main.9a13ea9b.chunk.js",
-    "main.js.map": "/Clicky-Game/static/js/main.9a13ea9b.chunk.js.map",
-    "runtime-main.js": "/Clicky-Game/static/js/runtime-main.628f24fa.js",
-    "runtime-main.js.map": "/Clicky-Game/static/js/runtime-main.628f24fa.js.map",
-    "static/js/2.7ed9e50a.chunk.js": "/Clicky-Game/static/js/2.7ed9e50a.chunk.js",
-    "static/js/2.7ed9e50a.chunk.js.map": "/Clicky-Game/static/js/2.7ed9e50a.chunk.js.map",
-    "index.html": "/Clicky-Game/index.html",
-    "precache-manifest.28edb0aa38f2bb915db9902731dd835c.js": "/Clicky-Game/precache-manifest.28edb0aa38f2bb915db9902731dd835c.js",
-    "service-worker.js": "/Clicky-Game/service-worker.js",
-    "static/css/main.6c427c75.chunk.css.map": "/Clicky-Game/static/css/main.6c427c75.chunk.css.map",
-    "static/js/2.7ed9e50a.chunk.js.LICENSE": "/Clicky-Game/static/js/2.7ed9e50a.chunk.js.LICENSE"
+    "main.css": "hoveringtorso.github.io/Clicky-Game/static/css/main.6c427c75.chunk.css",
+    "main.js": "hoveringtorso.github.io/Clicky-Game/static/js/main.c29bf06f.chunk.js",
+    "main.js.map": "hoveringtorso.github.io/Clicky-Game/static/js/main.c29bf06f.chunk.js.map",
+    "runtime-main.js": "hoveringtorso.github.io/Clicky-Game/static/js/runtime-main.ddcbfc0b.js",
+    "runtime-main.js.map": "hoveringtorso.github.io/Clicky-Game/static/js/runtime-main.ddcbfc0b.js.map",
+    "static/js/2.7ed9e50a.chunk.js": "hoveringtorso.github.io/Clicky-Game/static/js/2.7ed9e50a.chunk.js",
+    "static/js/2.7ed9e50a.chunk.js.map": "hoveringtorso.github.io/Clicky-Game/static/js/2.7ed9e50a.chunk.js.map",
+    "index.html": "hoveringtorso.github.io/Clicky-Game/index.html",
+    "precache-manifest.fadb676ff1dda1af7f8d122b7e8c3d9a.js": "hoveringtorso.github.io/Clicky-Game/precache-manifest.fadb676ff1dda1af7f8d122b7e8c3d9a.js",
+    "service-worker.js": "hoveringtorso.github.io/Clicky-Game/service-worker.js",
+    "static/css/main.6c427c75.chunk.css.map": "hoveringtorso.github.io/Clicky-Game/static/css/main.6c427c75.chunk.css.map",
+    "static/js/2.7ed9e50a.chunk.js.LICENSE": "hoveringtorso.github.io/Clicky-Game/static/js/2.7ed9e50a.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.628f24fa.js",
+    "static/js/runtime-main.ddcbfc0b.js",
     "static/js/2.7ed9e50a.chunk.js",
     "static/css/main.6c427c75.chunk.css",
-    "static/js/main.9a13ea9b.chunk.js"
+    "static/js/main.c29bf06f.chunk.js"
   ]
 }
